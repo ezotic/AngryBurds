@@ -1,0 +1,8 @@
+1. h1 tag "Angry Burds" weight strong
+
+Box div to create gameboard
+
+at the bottom
+    
+    input number / label Horizontal speed
+    input number / label vertical speed
